@@ -1,2 +1,6 @@
-# sorashizuku
-A small collection of visual fragments—used for signature, identity, and expression. 静かな夜に浮かぶもの。
+# tsukigasa-assets 🌧🌙
+
+静けさの中で生まれたビジュアルの断片。  
+Fragments of light, rain, and night—hosted for quiet expression.
+
+---
